@@ -24,9 +24,9 @@ class Myapp extends StatelessWidget{
             ),),
             actions: [
 
-              IconButton(onPressed: (){}, icon: const Icon(Icons.camera_alt_outlined)),
-              IconButton(onPressed: (){}, icon: const Icon(Icons.search_rounded)),
-              IconButton(onPressed: () {}, icon: const Icon(Icons.more_vert)),
+              // IconButton(onPressed: (){}, icon: const Icon(Icons.camera_alt_outlined)),
+              // IconButton(onPressed: (){}, icon: const Icon(Icons.search_rounded)),
+              // IconButton(onPressed: () {}, icon: const Icon(Icons.more_vert)),
 
             ],
             toolbarHeight: 70,
